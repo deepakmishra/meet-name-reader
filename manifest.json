@@ -15,14 +15,9 @@
   },
   "permissions": [
     "tabs",
-    "activeTab",
-    "contextMenus",
-    "identity",
-    "storage",
     "notifications"
   ],
   "optional_permissions": [
-    "system.display"
   ],
   "content_scripts": [
     {
